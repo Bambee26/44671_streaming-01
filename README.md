@@ -34,13 +34,10 @@ In VS Code, open just your project repository folder, e.g. Documents/streaming-0
 
 In VS Code, open a terminal window (View / Terminal) and verify your software is installed and configured.
 
-- If Mac/Linux, the default terminal should work.
 - If Windows, be sure you're using a PowerShell terminal (rather than cmd).
 
 Important: 
 
-- If Mac/Linux, change `python` to `python3` in the commands below.
-- In Windows, you might try `py` instead of `python`.
 - Type each command rather than copy & paste for best results. 
 - Wait for each command to complete before running the next command.
 
@@ -61,19 +58,10 @@ They all must run successfully before continuing.
 With your repo folder open in VS Code:
 
 1. Click util_about.py.
-1. If VS Code prompts, install the recommended Python extension.
-1. Check the Python Interpreter: On the bottom-left status bar, you might see a version of Python indicated (e.g., Python 3.12.x).
-1. If not, click on the bottom status bar where it should show the Python version or might say "Select Python Interpreter".
-1. From the dropdown, choose your default Python version.
 
 Use the terminal and the python command to execute the Python script. 
 
 1. Use your VS Code terminal window from above or open a new terminal window (View / Terminal) in VS Code.
-
-Important: 
-
-- If Mac/Linux, change `python` to `python3` in the commands below.
-- In Windows, you might try `py` instead of `python`.
 
 ```shell
 python util_about.py
@@ -100,9 +88,6 @@ The streaming process will run continuously for quite a while.
 Read the comments in the file to learn how to stop the process.
 
 Important: 
-
-- If Mac/Linux, change `python` to `python3` in the commands below.
-- In Windows, you might try `py` instead of `python`.
 - Wait for each script to finish. Did you generate a new datafile? What is the name?
 
 ```shell
