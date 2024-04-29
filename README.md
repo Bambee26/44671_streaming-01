@@ -138,44 +138,6 @@ In addition to the original files, you should have one or more new files and an 
 If not, return to VS Code and edit/execute files as needed. 
 Then commit and push again.
 
-Common Issue: If your computer hangs because you forgot the commit message, 
-just enter your message in the top line of the file it shows in the editor.
-Then click the checkmark in the upper right to close that file and save your commit message.
-"Sync your changes" to push to GitHub. 
-
-### Option B: Use Git Bash or Terminal Commands (Easy as well):
-
-Open a new `Git Bash` or Terminal window. Run the following commands one at a time.
-They will first add all the files (add "dot"). 
-Then they will commit the changes with a message. 
-Finally, they will push the changes up to GitHub.
-
-```
-git add .
-git commit -m "initial results"
-git push origin main
-```
-
-Open a browser and view your GitHub repository. 
-Verify your new files have been successfully pushed to GitHub. 
-
-✔️ Make sure your git add / commit / push completes successfully. 
-If not, post screenshots, error messages, and questions in the discussion.
-We've all been there when first learning Git and we can help. 
----
-
-## General Recommendations and Troubleshooting
-
-The following are general recommendations and troubleshooting tips.
-
-### Issue: VS Code - No Source Control Icon
-
-Suggestion: If you're in VS Code, and you don't see the Source Control icon with a blue bubble, right-click on the sidebar icons, and make sure "Source Control" is checked.  
-
-### Issue: VS Code wants to install an extension
-
-If VS Code suggests an extension, it's often good to go ahead and try it. 
-Do a search on the extension to learn more. VS Code suggestions are usually helpful. 
 
 ## Additional Resources
 
