@@ -26,7 +26,7 @@ logging.basicConfig(
 
 # Declare program constants
 
-INPUT_FILE_NAME = "batchfile_1_celcius.csv"
+INPUT_FILE_NAME = "batchfile_1_celsius.csv"
 OUTPUT_FILE_NAME = "batchfile_2_kelvin.csv"
 
 # Define program functions (bits of reusable code)
