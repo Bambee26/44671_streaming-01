@@ -2,7 +2,7 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2024-04-29 at 04:23 PM
+ Date and Time: 2024-04-29 at 06:11 PM
  Operating System: nt Windows 10
  System Architecture: 64bit
  Number of CPUs: 12
@@ -15,8 +15,8 @@
  Path to Interpreter:         C:\Users\bambe\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe
  Path to virtual environment: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0
  Current Working Directory:   C:\Users\bambe\OneDrive\Documents\NMSU\44671_StreamingData\Module_1\44671_streaming-01
- Path to source directory:    C:\Users\bambe\OneDrive\Documents\NMSU\44671_StreamingData\Module_1\44671_streaming-01
- Path to script file:         C:\Users\bambe\OneDrive\Documents\NMSU\44671_StreamingData\Module_1\44671_streaming-01\util_about.py
+ Path to source directory:    c:\Users\bambe\OneDrive\Documents\NMSU\44671_StreamingData\Module_1\44671_streaming-01
+ Path to script file:         c:\Users\bambe\OneDrive\Documents\NMSU\44671_StreamingData\Module_1\44671_streaming-01\util_about.py
  User's Home Directory:       C:\Users\bambe
  Terminal Environment:        VS Code
  Terminal Type:               cmd.exe
