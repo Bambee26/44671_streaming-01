@@ -27,7 +27,7 @@ logging.basicConfig(
 # Declare program constants (typically constants are named with ALL_CAPS)
 
 INPUT_FILE_NAME = "batchfile_0_farenheit.csv"
-OUTPUT_FILE_NAME = "batchfile_1_celcius.csv"
+OUTPUT_FILE_NAME = "batchfile_1_celsius.csv"
 
 # Define program functions (bits of reusable code)
 
